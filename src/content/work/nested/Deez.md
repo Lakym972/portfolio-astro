@@ -2,9 +2,9 @@
 title: Projet Deez
 publishDate: 2024-03-28 18:08:00
 img: /assets/deez-index.png
-img_alt: page d'accueil projet-deez
+img_alt: projet-deez
 description: |
-  j'ai travaillé sur un projet de Blindtest inspiré de Deezzer
+  j'ai travaillé sur un projet de Blindtest inspiré de Deezer
 tags:
   - Dev
   - Sécurité
@@ -12,12 +12,16 @@ tags:
   - Musiques
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Le projet Deez est un projet de blindtest inspiré par les fonctionnalités de Deezer, développé en utilisant Node.js. Il permet aux utilisateurs de jouer à un jeu de reconnaissance musicale où ils doivent deviner le titre et l'artiste d'une chanson à partir d'extraits audio. Le jeu offre une expérience divertissante et interactive pour les amateurs de musique de tous niveaux.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Les utilisateurs peuvent créer un compte, se connecter et mettre à jour leurs informations personnelles.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Node.js : Pour le développement du backend du jeu, la gestion des utilisateurs, la logique de jeu et l'intégration avec l'API de RapidAPI.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Express.js : Pour la création d'une interface HTTP robuste pour gérer les requêtes et les réponses.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+MongoDB : Pour stocker les informations des utilisateurs, les scores et d'autres données pertinentes.
+
+HTML/CSS/JavaScript : Pour le développement du frontend de l'application web, fournissant une interface utilisateur intuitive et conviviale.
+
+Le projet Deez offre une expérience immersive et stimulante pour les amateurs de musique, tout en démontrant les capacités puissantes de Node.js dans le développement d'applications web interactives.

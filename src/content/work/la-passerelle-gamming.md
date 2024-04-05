@@ -1,22 +1,34 @@
 ---
-title: La Passerelle-Gamming
+title: La Passerelle Gamming
 publishDate: 2019-10-02 00:00:00
 img: /assets/laPasserelleGamming.png
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img_alt: La Passerelle Gamming.
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  La Passerelle Gamming est une plateforme de jeux en ligne développée en utilisant React.js, offrant une collection de jeux classiques tels que Tic-Tac-Toe, Memory, Simon, et Chifumi (Pierre-Papier-Ciseaux).
 tags:
-  - Design
-  - Branding
+  - React
+  - Dev
+  - Redux
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+La Passerelle Gamming est une plateforme de jeux en ligne développée en utilisant React.js, offrant une collection de jeux classiques tels que Tic-Tac-Toe, Memory, Simon, et Chifumi (Pierre-Papier-Ciseaux). Cette plateforme vise à offrir une expérience ludique et divertissante aux utilisateurs de tous âges, tout en mettant en valeur les capacités de développement de jeux avec React.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Fonctionnalités principales :
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Sélection de jeu : Les utilisateurs peuvent choisir parmi une sélection de jeux disponibles sur la plateforme, notamment Tic-Tac-Toe, Memory, Simon, et Chifumi.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Interface utilisateur réactive : La Passerelle Gamming fournit une interface utilisateur réactive et intuitive, permettant une navigation facile entre les différents jeux et fonctionnalités.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Statistiques de jeu : Les utilisateurs peuvent consulter leurs statistiques de jeu, telles que le nombre de parties jouées, les victoires et les défaites, pour chaque jeu.
+
+Technologies utilisées :
+
+React.js : Pour le développement de l'interface utilisateur interactive et réactive, ainsi que pour la gestion de l'état de l'application.
+
+Redux : Pour la gestion de l'état global de l'application, permettant le partage de données entre les différents composants.
+
+React Router : Pour la navigation entre les différentes pages et jeux de la plateforme.
+
+CSS/TailWind : Pour la conception et la stylisation des composants d'interface utilisateur, offrant une expérience visuelle attrayante.
+
+La Passerelle Gamming offre une plateforme unifiée où les utilisateurs peuvent jouer à leurs jeux préférés, défier leurs amis en ligne et suivre leur progression. Avec son architecture modulaire et réactive, cette plateforme démontre les meilleures pratiques de développement de jeux en utilisant React.js.

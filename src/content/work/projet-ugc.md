@@ -1,14 +1,14 @@
 ---
-title: Projet-UGC
+title: Projet UGC
 publishDate: 2020-03-02 00:00:00
 img: /assets/projet-ugc.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: projet-ugc
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Le projet consiste en une application similaire à UGC, où les utilisateurs peuvent s'inscrire et choisir des préférences.
 tags:
-  - Design
+  - Symphony
   - Dev
-  - User Testing
+  - Users
 ---
 
 Le projet consiste en une application similaire à UGC, où les utilisateurs peuvent s'inscrire et choisir des préférences telles que leur emplacement dans la salle de cinéma, leur(s) style(s) de films préférés, leur(s) acteur(s) préféré(s) et leur cinéma préféré. 
